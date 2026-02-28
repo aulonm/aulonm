@@ -1,8 +1,8 @@
 ## Hi! 👋
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=aulonm&count_private=true&show_icons=true)](https://github.com/aulonm)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=aulonm&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=aulonm&show_icons=true&include_all_commits=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aulonm&layout=compact)](https://github.com/aulonm)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=aulonm&layout=donut&langs_count=6&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=aulonm&layout=donut&langs_count=6&theme=dark)
 
 <!--
 **aulonm/aulonm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
